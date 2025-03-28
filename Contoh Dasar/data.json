@@ -1,0 +1,10 @@
+{
+  "nama": "Budi",
+  "umur": 30,
+  "kota": "Jakarta",
+  "hobi": ["membaca", "olahraga", "bermusik"],
+  "alamat": {
+  "jalan": "Jl. Sudirman",
+  "kodePos": "10220"
+  }
+}
