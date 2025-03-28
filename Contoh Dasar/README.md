@@ -26,6 +26,7 @@ Jika anda sudah jago jangan membuat alat hacking atau semacam nya, Karna sudahh 
 ## 📩 Social & Contact
 1. [TikTok](https://www.TikTok.com/@stc_ryzzz)
 2. [WhatSapp](https://wa.me/+6285183131924)
+
 `Kami siap membantu kalian jika memiliki kesulitan`
 
 ## 👤 Founder
