@@ -29,5 +29,5 @@ Jika anda sudah jago jangan membuat alat hacking atau semacam nya, Karna sudahh 
 
 `Kami siap membantu kalian jika memiliki kesulitan`
 
-## 👤 Founder
+## 👤 Founder Project
 • Hazelnutty
