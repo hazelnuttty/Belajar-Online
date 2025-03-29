@@ -70,6 +70,7 @@ Cobalah setiap contoh kode yang ada di materi. Praktik langsung adalah cara terb
 ## 📝 Catatan
 
 Semua orang boleh pintar dan jago dalam programming, Kami akan membantu anda belajar programming basic sampe advanced, Repositori ini akan di perbarui setiap bulan nya, Semangat belajar semua nya you can do it
+
 ---
 
 ## 🤝 Kontribusi
