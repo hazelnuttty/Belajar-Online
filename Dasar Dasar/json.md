@@ -8,7 +8,7 @@ JSON menggunakan pasangan key-value dengan format berikut:
 ```json
 {
     "nama": "Rerey",
-    "umur": 20,
+    "umur": 21,
     "kota": "Jakarta"
 }
 ```
