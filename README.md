@@ -57,7 +57,7 @@ Memfasilitasi pemula untuk menguasai dasar-dasar pemrograman melalui penjelasan 
 1. **Clone Repo**:  
    Untuk mulai belajar, clone repo ini ke komputer kamu menggunakan perintah berikut:  
    ```sh
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/hazelnuttty/Belajar-Online.git
    ```
 
 2. Pilih Materi:
