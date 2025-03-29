@@ -83,4 +83,4 @@ Ingin berkontribusi? Silakan buat pull request untuk menambahkan materi baru ata
 ## 📄 Lisensi
 
 Repo ini menggunakan MIT License. Lihat file LICENSE untuk informasi lebih lanjut.
-Silakan salin dan tempelkan di file `README.txt` di repositori kamu!
+Silakan salin dan tempelkan di file `README.md` di repositori kamu!
