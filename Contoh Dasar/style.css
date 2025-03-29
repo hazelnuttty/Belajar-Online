@@ -1,0 +1,27 @@
+/* Gaya untuk header */
+#header {
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Gaya untuk judul */
+.judul {
+  font-size: 24px;
+  color: #333;
+}
+
+/* Gaya untuk paragraf di dalam div */
+div p {
+  line-height: 1.5;
+}
+
+/* gaya untuk link */
+a{
+    color: blue;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
