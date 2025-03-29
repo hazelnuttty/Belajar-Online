@@ -1,45 +1,57 @@
-# Basic Pemrograman
+# Contoh Dasar Pemrograman
 
 ## 📌 Tentang Proyek
-Proyek ini dibuat sebagai platform pembelajaran bagi mereka yang ingin memahami dasar-dasar pemrograman secara praktis. Platform ini menyediakan berbagai materi dan alat untuk memahami konsep pemrograman dari dasar hingga tingkat lanjut.
+
+Proyek ini dibuat untuk para pemula yang ingin memahami struktur dasar HTML, CSS, JavaScript, Flask, Python, JSON, dan PHP. Platform ini bertujuan untuk membantu mempelajari konsep-konsep dasar pemrograman secara bertahap dan praktis.
+
+### 👤 Founder
+Proyek ini dikembangkan oleh **Hazelnut** sebagai sumber belajar bagi mereka yang ingin memahami pemrograman dari dasar.
+
+### 🤝 Kontributor
+Terima kasih kepada para kontributor yang telah membantu dalam pengembangan proyek ini:
+- **Hazelnut** - Founder & Developer Utama
+- **Team yang terlibat** - Kontributor
+
+Jika ingin berkontribusi dalam pengembangan proyek ini, silakan fork repository, lakukan perubahan, dan kirim pull request.
 
 ## 🔥 Fitur yang Disediakan
 
-### 1. **Pengenalan Pemrograman**
-   - Penjelasan tentang apa itu pemrograman dan bagaimana cara kerjanya.
-   - Perbedaan antara berbagai bahasa pemrograman seperti Python, JavaScript, dan C++.
+### 1. **Pengenalan HTML & CSS**
+- Dasar-dasar HTML: elemen, atribut, dan struktur dokumen.
+- Dasar-dasar CSS: styling, layout, dan responsivitas.
 
-### 2. **Dasar-Dasar Sintaks**
-   - Memahami sintaks dasar dalam berbagai bahasa pemrograman.
-   - Belajar tentang variabel, tipe data, dan operasi dasar.
+### 2. **Dasar JavaScript**
+- Variabel, tipe data, dan operator.
+- DOM Manipulation dan event handling.
 
-### 3. **Struktur Kontrol**
-   - Belajar tentang percabangan (if-else) dan perulangan (for, while).
-   - Memahami bagaimana mengontrol alur eksekusi program.
+### 3. **Dasar Python**
+- Sintaks dasar, variabel, dan tipe data.
+- Struktur kontrol seperti if-else dan looping.
 
-### 4. **Fungsi dan Modularisasi**
-   - Bagaimana membuat dan menggunakan fungsi dalam pemrograman.
-   - Konsep modularisasi untuk membuat kode lebih terstruktur.
+### 4. **Flask untuk Web Development**
+- Cara membuat server dengan Flask.
+- Routing dan template rendering.
 
-### 5. **Pemrograman Berorientasi Objek (OOP)**
-   - Pengenalan konsep OOP seperti kelas dan objek.
-   - Memahami konsep pewarisan, enkapsulasi, dan polimorfisme.
+### 5. **JSON untuk Data Management**
+- Cara menyimpan dan mengelola data dalam format JSON.
+- Parsing JSON di Python dan JavaScript.
 
-### 6. **Proyek Mini**
-   - Menerapkan konsep yang telah dipelajari dalam proyek kecil.
-   - Contoh proyek seperti kalkulator sederhana atau aplikasi to-do list.
+### 6. **Dasar PHP**
+- Sintaks dasar dan cara kerja PHP.
+- Koneksi PHP dengan database.
 
 ## 📖 Cara Menggunakan
-1. **Mulai dari materi dasar dan ikuti secara berurutan.**
-2. **Praktikkan setiap konsep dengan coding langsung.**
-3. **Gunakan forum atau komunitas untuk berdiskusi jika mengalami kesulitan.**
+
+1. **Pelajari materi dari dasar ke tingkat lanjut.**
+2. **Praktikkan langsung dengan coding.**
+3. **Jangan takut mencoba dan bereksperimen.**
 
 ## 🔗 Kontribusi
 Jika ingin berkontribusi dalam pengembangan proyek ini, silakan fork repository, lakukan perubahan, dan kirim pull request.
 
-## 🫂 Support me
-Support saya melalui [traktree](https://traktree.com/HAZELNUTTTY)
+## 📜 Lisensi
+Proyek ini dirilis di bawah lisensi **MIT License**. Anda bebas menggunakan, memodifikasi, dan mendistribusikan kode ini selama tetap mencantumkan kredit kepada pembuatnya.
 
 ---
-**Pemrograman adalah keterampilan yang dapat dipelajari oleh siapa saja. Tetap semangat dan terus eksplorasi!**
+**Pemrograman dapat dipelajari oleh siapa saja. Tetap semangat dan terus eksplorasi!**
 
