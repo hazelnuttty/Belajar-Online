@@ -89,9 +89,7 @@ Ingin berkontribusi? Silakan buat pull request untuk menambahkan materi baru ata
 ## 🫂 Support me & Donate
 
 Jika kamu menikmati proyek saya, kamu bisa mendukung saya melalui **Traktree**! 🙏  
-
 [![Dukung Saya di Traktree](https://img.shields.io/badge/Traktree-FFD700?style=for-the-badge&logo=google-pay&logoColor=black)](https://traktree.id/username)  
-
 Klik tombol di atas untuk berdonasi dan mendukung proyek ini! Terima kasih atas dukungannya! 😊
 
 ---
