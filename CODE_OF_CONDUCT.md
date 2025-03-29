@@ -42,7 +42,7 @@ Kami mengutamakan nilai-nilai berikut dalam komunitas ini:
 
 ## 6️⃣. Melaporkan Pelanggaran  
 Jika kamu melihat perilaku yang melanggar aturan ini, segera laporkan melalui:  
-📩 **Email:** admin@repository.com  
+📩 **Email:** mrayhan1924@gmail.com  
 📢 **Issues di GitHub:** Buat laporan dengan format yang jelas.  
 
 Kami ingin memastikan komunitas ini tetap aman dan nyaman bagi semua orang. Terima kasih telah menjadi bagian dari **Materi Dasar Programming**! 🎉
