@@ -12,7 +12,7 @@ Saat ini, kami mendukung semua versi terbaru dari materi yang ada dalam reposito
 
 ## 3️⃣. Cara Melaporkan Kerentanan Keamanan  
 Jika kamu menemukan kerentanan keamanan dalam proyek ini, silakan laporkan melalui:  
-📩 **Email:** security@repository.com  
+📩 **Email:** mrayhan1924@gmail.com  
 🔐 **GitHub Issues (Private):** Jika memungkinkan, gunakan fitur private report agar informasi sensitif tidak tersebar.
 
 Harap **TIDAK** melaporkan kerentanan secara publik sebelum perbaikan tersedia.
