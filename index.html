@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Belajar Online</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            transition: all 0.3s;
+            background: #f4f4f4;
+        }
+        .navbar {
+            width: 100%;
+            background: #333;
+            color: white;
+            padding: 15px;
+            display: flex;
+            align-items: center;
+            font-size: 18px;
+        }
+        .menu-button {
+            background: none;
+            border: none;
+            color: white;
+            font-size: 22px;
+            cursor: pointer;
+            margin-right: 15px;
+        }
+        .container {
+            display: flex;
+            width: 100%;
+            transition: all 0.3s;
+        }
+        .sidebar {
+            width: 250px;
+            background: #222;
+            color: white;
+            padding: 20px;
+            height: 100vh;
+            transition: all 0.3s;
+        }
+        .sidebar h2 {
+            margin-top: 0;
+            font-size: 22px;
+        }
+        .sidebar a {
+            display: block;
+            color: white;
+            text-decoration: none;
+            padding: 12px;
+            margin: 8px 0;
+            background: #444;
+            border-radius: 5px;
+            text-align: center;
+        }
+        .sidebar a:hover {
+            background: #555;
+        }
+        .content {
+            flex: 1;
+            padding: 30px;
+            background: white;
+            border-radius: 10px;
+            margin: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s;
+        }
+        .full-screen {
+            width: 100vw !important;
+            height: 100vh !important;
+            padding: 50px;
+            margin: 0;
+            border-radius: 0;
+        }
+        .hide-sidebar {
+            display: none !important;
+        }
+        .footer {
+            width: 100%;
+            text-align: center;
+            padding: 15px;
+            background: #222;
+            color: white;
+            font-size: 15px;
+            transition: all 0.3s;
+        }
+        .hide-footer {
+            display: none !important;
+        }
+        .running-text {
+            width: 100%;
+            background: #222;
+            color: white;
+            padding: 5px 0;
+            overflow: hidden;
+            white-space: nowrap;
+            text-align: center;
+        }
+        .running-text marquee {
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <button class="menu-button" onclick="toggleMenu()">☰</button>
+        <h2>Belajar Online</h2>
+    </div>
+    <div class="container">
+        <div class="sidebar" id="sidebar">
+            <h2>Materi</h2>
+            <a href="#" onclick="loadMateri('html.txt')">HTML</a>
+            <a href="#" onclick="loadMateri('css.txt')">CSS</a>
+            <a href="#" onclick="loadMateri('js.txt')">JavaScript</a>
+        </div>
+        <div class="content" id="konten">
+            <h1>Selamat Datang</h1>
+            <p>Pilih materi dari sidebar.</p>
+        </div>
+    </div>
+    <div class="footer" id="footer">
+        <div class="running-text">
+            <marquee>Kontributor: Rerey, Bintang, Hazel</marquee>
+        </div>
+        <p>© 2025 Belajar Programming. All rights reserved.</p>
+    </div>
+    <script>
+        function loadMateri(file) {
+            fetch(file)
+                .then(response => response.text())
+                .then(text => {
+                    // Mengubah tampilan materi agar lebih responsif
+                    document.getElementById('konten').innerHTML = `<h1>${file}</h1><div style="white-space: pre-wrap; word-wrap: break-word;">${text}</div>`;
+                    document.getElementById('sidebar').classList.add('hide-sidebar');
+                    document.getElementById('konten').classList.add('full-screen');
+                    document.getElementById('footer').classList.add('hide-footer');
+                })
+                .catch(error => {
+                    document.getElementById('konten').innerHTML = '<h1>Gagal memuat materi</h1>';
+                });
+        }
+        function toggleMenu() {
+            let sidebar = document.getElementById('sidebar');
+            let content = document.getElementById('konten');
+            let footer = document.getElementById('footer');
+            if (sidebar.classList.contains('hide-sidebar')) {
+                sidebar.classList.remove('hide-sidebar');
+                content.classList.remove('full-screen');
+                footer.classList.remove('hide-footer');
+            } else {
+                sidebar.classList.add('hide-sidebar');
+                content.classList.add('full-screen');
+                footer.classList.add('hide-footer');
+            }
+        }
+    </script>
+</body>
+</html>
