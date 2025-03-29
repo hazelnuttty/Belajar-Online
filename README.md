@@ -1,6 +1,6 @@
-# 📚 Materi Dasar Programming - HTML, CSS, Java, PHP, JSON, Python
+# 📚 Materi Dasar Programming & CyberSecurity
 
-Selamat datang di repo **Materi Dasar Programming**! Repo ini berisi berbagai materi dasar tentang pemrograman untuk membantu kamu memahami konsep-konsep fundamental dalam dunia programming. Dengan materi ini, kamu akan mempelajari dasar-dasar beberapa bahasa pemrograman penting, yaitu **HTML**, **CSS**, **Java**, **PHP**, **JSON**, dan **Python**.
+Selamat datang di repo **Materi Dasar Programming & CyberSecurity**! Repo ini berisi berbagai materi dasar tentang pemrograman untuk membantu kamu memahami konsep-konsep fundamental dalam dunia programming & cybersecurity. Dengan materi ini, kamu akan mempelajari dasar-dasar bahasa pemerogramman & tools cybersecurity.
 
 🔍 **Tujuan:**  
 Memfasilitasi pemula untuk menguasai dasar-dasar pemrograman melalui penjelasan yang mudah dipahami dan contoh kode yang langsung dapat dipraktikkan.
@@ -50,6 +50,12 @@ Memfasilitasi pemula untuk menguasai dasar-dasar pemrograman melalui penjelasan 
    - **Struktur Data**: List, Tuple, Dictionary, dan Set.
    - **File Handling**: Membaca dan menulis file dengan Python.
 
+### 7. **CyberSecurity** 🌐
+   - **Pengenalan CyberSecurity**: Kita akan berkenalan denga CyberSecurity.
+   - **Server Testing**: Kami telah menyiapkan server untuk kalian coba hack dan amankan.
+   - **Tools**: Kami akan mengasihkan beberapa tools CyberSecurity.
+   - **Penggunaan**: Kalian akan diajarkan cara menggunakan tools hacking & keamanan
+     
 ---
 
 ## 🛠️ Cara Menggunakan
@@ -79,6 +85,10 @@ Ingin berkontribusi? Silakan buat pull request untuk menambahkan materi baru ata
 
 
 ---
+
+## 🫂 Support & Donate
+
+
 
 ## 📄 Lisensi
 
