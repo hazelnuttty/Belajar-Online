@@ -1,6 +1,6 @@
 # 📚 Materi Dasar Programming & CyberSecurity
 
-Selamat datang di repo **Materi Dasar Programming & CyberSecurity**! Repo ini berisi berbagai materi dasar tentang pemrograman untuk membantu kamu memahami konsep-konsep fundamental dalam dunia programming & cybersecurity. Dengan materi ini, kamu akan mempelajari dasar-dasar bahasa pemerogramman & tools cybersecurity.
+Selamat datang di repo **Materi Dasar Programming & CyberSecurity**! Repo ini berisi berbagai materi dasar tentang pemrograman & cybersecurity untuk membantu kamu memahami konsep-konsep fundamental dalam dunia programming & cybersecurity. Dengan materi ini, kamu akan mempelajari dasar-dasar bahasa pemerogramman & tools cybersecurity.
 
 🔍 **Tujuan:**  
 Memfasilitasi pemula untuk menguasai dasar-dasar pemrograman melalui penjelasan yang mudah dipahami dan contoh kode yang langsung dapat dipraktikkan.
